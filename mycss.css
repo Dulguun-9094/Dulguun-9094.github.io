@@ -10109,7 +10109,7 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 770px) {
   section.resume-section {
     min-height: 100vh;
   }
